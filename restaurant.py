@@ -23,13 +23,15 @@ print(phrase.PHRASE_3)
 phrase_1 = input("Чи не хочете обрати щось окрім форелі: ")
 print(phrase.PHRASE_4)
 print(phrase.PHRASE_5)
-total = menu_price.trout_price
+print(phrase.PHRASE_8)
+discount = 63
+total = menu_price.trout_price - discount
 print("*" * 50)
 print("ЧЕК")
 print("Кількість страв : 1")
-print("Ціна порції : 420 грн")
+print("Ціна порції із урахуванням знижки : 357 грн")
 print(f"Уся сума за вечерю = {total} ")
-print("Форель;одна штука;420грн")
+print("Форель;одна штука;357грн")
 print("*" * 50)
 print(phrase.PHRASE_6)
 print(phrase.PHRASE_7)
