@@ -1,5 +1,6 @@
 import phrase
 import menu_price
+
 print(phrase.PHRASE_1)
 phrase_0 = input("Як я можу до вас звертатися : ")
 print(phrase.PHRASE_2)
@@ -29,18 +30,3 @@ print(f"Total amount of money for your dinner = {total} ")
 print("*" * 50)
 print(phrase.PHRASE_6)
 print(phrase.PHRASE_7)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
