@@ -1,9 +1,7 @@
-
 import textwrap
 from datetime import datetime
 from decimal import Decimal
 import decimal
-
 
 # goods 1 section
 item_1_title = textwrap.shorten(input('Введіть назву першого товару: ').ljust(20, '.'), width=20,
