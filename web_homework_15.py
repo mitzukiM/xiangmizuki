@@ -12,10 +12,10 @@ response_json = response.json()
 
 users_link = response_json['users']
 
-users_under_of_thirty = 0
+users_under_of_30 = 0
 for user in users_link:
     if user['age'] < 30:
-        users_under_of_thirty += 1
+        users_under_of_30 += 1
 
 green_eyed_females_count = 0
 
