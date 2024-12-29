@@ -2,6 +2,7 @@ import requests
 
 link = 'https://dummyjson.com/users'
 
+
 params = {
     'limit': 3000,
     'skip': 0
