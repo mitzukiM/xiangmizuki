@@ -1,11 +1,11 @@
 import requests
 import json
 
-# response = requests.get(' https://chtyvo.org.ua/authors/Falkovych_Hryhorii/Smyk-tyndyk.pdf')
-# file_content = response.content
-#
-# with open('children_book.pdf', mode='bw') as file:
-#     file.write(file_content)
+response = requests.get(' https://chtyvo.org.ua/authors/Falkovych_Hryhorii/Smyk-tyndyk.pdf')
+file_content = response.content
+
+with open('children_book.pdf', mode='bw') as file:
+    file.write(file_content)
 
 url_info = 'http://api.open-notify.org/astros.json'
 response = requests.get(url_info)
