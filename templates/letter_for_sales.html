@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<h1>Модель автомобіля - це {{car_model}}</h1>
+<h2>Вартість автомобіля становить {{price}}</h2>
+<h2>Рік випуску автомобіля становить {{year_of_release}}</h2>
+<h2>Кількість місць у машині становить {{number_of_seats}}</h2>
+
+<h3>Додаткова інформація про інтер'єр</h3>
+{% for interior_feature in interior_features%}
+<p>-{{interior_feature}}</p>
+{% endfor %}
+
+{% if price < 30000 %}
+<p>Доступний автомобіль для всіх</p>
+
+{% elif price == 30000 %}
+<p></p>
+{% else%}
+<p>Преміум автомобіль для особливих користувачів </p>
+{% endif %}
+
+
+
+</body>
+</html>
