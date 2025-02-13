@@ -1,8 +1,11 @@
-class Vehicle():
+from abc import ABC, abstractmethod
+class Vehicle(ABC):
     def __init__(self, brand: str, model: str):
         self.brand = brand
         self.model = model
 
+
+    @abstractmethod
     def info(self):
         return f'Бренд автомобільного засобу {self.brand}, його модель {self.model}'
 
@@ -35,12 +38,12 @@ class Truck(Vehicle):
                 f'{self.capacity} кг')
 
 
-vehicle = Vehicle(brand='Toyota', model='Toyota C-HR')
+
 car = Car(brand='BMV', model='BMW 840d xDrive', num_doors=4)
 bike = Bike(brand='Velo Srlad', model='WINNER SPECIAL 27.5" 2022', type='Гірський велосипед')
 truck = Truck(brand=' Mercedes', model='Самоскид Mercedes-Benz AROCS 4148', capacity=24500)
 
-print(vehicle.info())
+
 print(car.info())
 print(bike.info())
 print(truck.info())
