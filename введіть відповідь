@@ -1,0 +1,83 @@
+2024-12-03 19:59:41,771 - DEBUG - Using proactor: IocpProactor
+2024-12-03 19:59:41,776 - DEBUG - Using proactor: IocpProactor
+2024-12-03 19:59:41,779 - INFO - Try open http://127.0.0.1:55994 in web browser
+2024-12-03 19:59:50,547 - DEBUG - 7 7
+2024-12-03 19:59:57,081 - DEBUG - Closing tornado ioloop...
+2024-12-03 19:59:57,083 - DEBUG - Tornado server exit
+2024-12-03 20:00:03,805 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:00:03,810 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:00:03,814 - INFO - Try open http://127.0.0.1:56015 in web browser
+2024-12-03 20:00:11,405 - DEBUG - 7 7
+2024-12-03 20:00:18,599 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:00:18,601 - DEBUG - Tornado server exit
+2024-12-03 20:16:07,297 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:16:07,302 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:16:07,305 - INFO - Try open http://127.0.0.1:56475 in web browser
+2024-12-03 20:16:22,547 - DEBUG - 7 7
+2024-12-03 20:16:36,850 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:16:36,852 - DEBUG - Tornado server exit
+2024-12-03 20:23:57,699 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:23:57,704 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:23:57,707 - INFO - Try open http://127.0.0.1:56589 in web browser
+2024-12-03 20:24:09,739 - INFO - 7 .
+2024-12-03 20:24:19,595 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:24:19,598 - DEBUG - Tornado server exit
+2024-12-03 20:24:40,613 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:24:40,618 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:24:40,622 - INFO - Try open http://127.0.0.1:56611 in web browser
+2024-12-03 20:24:48,953 - INFO - 7 7
+2024-12-03 20:24:55,863 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:24:55,867 - DEBUG - Tornado server exit
+2024-12-03 20:30:26,501 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:30:26,506 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:30:26,509 - INFO - Try open http://127.0.0.1:56844 in web browser
+2024-12-03 20:30:35,106 - DEBUG - ScriptModeSession closed
+2024-12-03 20:30:35,676 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:30:35,677 - DEBUG - Tornado server exit
+2024-12-03 20:30:59,668 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:30:59,672 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:30:59,676 - INFO - Try open http://127.0.0.1:56870 in web browser
+2024-12-03 20:31:37,707 - DEBUG - ScriptModeSession closed
+2024-12-03 20:31:38,591 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:31:38,592 - DEBUG - Tornado server exit
+2024-12-03 20:31:40,592 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:31:40,597 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:31:40,601 - INFO - Try open http://127.0.0.1:56894 in web browser
+2024-12-03 20:31:45,029 - DEBUG - given name: r
+2024-12-03 20:31:53,963 - INFO - 7 7
+2024-12-03 20:32:02,508 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:32:02,511 - DEBUG - Tornado server exit
+2024-12-03 20:32:50,013 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:32:50,019 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:32:50,025 - INFO - Try open http://127.0.0.1:56918 in web browser
+2024-12-03 20:33:02,684 - DEBUG - given name: Rita
+2024-12-03 20:33:08,539 - INFO - 7 7
+2024-12-03 20:33:17,901 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:33:17,904 - DEBUG - Tornado server exit
+2024-12-03 20:41:27,975 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:41:27,981 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:41:27,986 - INFO - Try open http://127.0.0.1:56977 in web browser
+2024-12-03 20:41:48,185 - DEBUG - given name: rita
+
+2024-12-03 20:41:54,660 - INFO - 7 7
+2024-12-03 20:42:02,205 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:42:02,210 - DEBUG - Tornado server exit
+2024-12-03 20:43:49,478 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:43:49,483 - DEBUG - Using proactor: IocpProactor
+2024-12-03 20:43:49,487 - INFO - Try open http://127.0.0.1:57029 in web browser
+2024-12-03 20:43:55,447 - INFO - 7 7
+2024-12-03 20:44:08,416 - DEBUG - given name: jhc432
+1222
+2024-12-03 20:44:09,401 - DEBUG - Closing tornado ioloop...
+2024-12-03 20:44:09,403 - DEBUG - Tornado server exit
+2024-12-04 16:32:07,573 - DEBUG - Using proactor: IocpProactor
+2024-12-04 16:32:08,089 - DEBUG - Using proactor: IocpProactor
+2024-12-04 16:32:08,190 - INFO - Try open http://127.0.0.1:60402 in web browser
+2024-12-04 16:43:38,701 - DEBUG - Closing tornado ioloop...
+2024-12-04 16:43:38,707 - DEBUG - Tornado server exit
+2024-12-04 17:08:54,321 - DEBUG - Using proactor: IocpProactor
+2024-12-04 17:08:54,327 - DEBUG - Using proactor: IocpProactor
+2024-12-04 17:08:54,332 - INFO - Try open http://127.0.0.1:60866 in web browser
+2024-12-04 17:10:02,000 - DEBUG - Using proactor: IocpProactor
+2024-12-04 17:10:02,007 - DEBUG - Using proactor: IocpProactor
+2024-12-04 17:10:02,012 - INFO - Try open http://127.0.0.1:60894 in web browser
